@@ -71,7 +71,7 @@ img{
 
 header{
     height: 100vh;
-    background-image: url("../IMG/bgHeader.jpeg");
+    background-image: url("../img/bgHeader.jpeg");
     background-position: center;
     background-color: darkslategrey;
 }
